@@ -8,7 +8,7 @@ public class DotChaser {
             N = Integer.parseInt(args[0]);
         }
 
-        ThingList thingList = new ThingList();
+        ThingList thingList = new ThingList(); 
         Random rand = new Random();
         int count = 0;
 
