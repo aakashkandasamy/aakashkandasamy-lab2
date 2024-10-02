@@ -1,0 +1,29 @@
+commit 6c148ef14b78adbdff941af680662f50420a3339
+Author: aakashkandasamy <aakashkandasamy@gmail.com>
+Date:   Tue Oct 1 23:47:09 2024 -0400
+
+    passing the test cases
+
+commit 65d826f5fa80304094de2cd597684cede8273308
+Author: aakashkandasamy <aakashkandasamy@gmail.com>
+Date:   Tue Oct 1 21:24:21 2024 -0400
+
+    Create junit-platform-console-standalone-1.7.0-M1.jar
+
+commit f9e823bbd3b9ec535709f32b11824620ee3cb8fa
+Author: aakashkandasamy <aakashkandasamy@gmail.com>
+Date:   Tue Oct 1 21:22:18 2024 -0400
+
+    Files to submit
+
+commit 58f6325f754486c78745425a0bb64c40532cb286
+Author: aakashkandasamy <aakashkandasamy@gmail.com>
+Date:   Tue Oct 1 21:21:26 2024 -0400
+
+    Create Thing.java
+
+commit 233ca7fd3ea9d507d07faefd20f66065667cf59b
+Author: aakashkandasamy <67540149+aakashkandasamy@users.noreply.github.com>
+Date:   Wed Oct 2 05:18:11 2024 +0400
+
+    init
